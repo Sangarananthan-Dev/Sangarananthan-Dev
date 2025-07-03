@@ -5,14 +5,14 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack+Developer;React+%7C+Next.js+%7C+Node;&font=Fira%20Code&center=true&width=500&height=45&color=F7DF1E&vCenter=true&size=22" />
 </p>
-## 📊 GitHub Stats
 
+## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sangarananthan-Dev&theme=highcontrast&hide_border=true&card_width=350" />
   <img src="https://github-readme-stats.vercel.app/api?username=Sangarananthan-Dev&show_icons=true&theme=highcontrast&hide_border=true&card_width=350" />
 </p>
 
-🛠 Tech stack:
+## 🛠 Tech stack:
 
 ![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/-Next.js-000?style=for-the-badge&logo=nextdotjs)
@@ -38,15 +38,6 @@
     <img src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
-
-
-## ✨ Fun Fact
-
-🕹️ I love building micro tools and experimenting with new front-end libraries.
-
-🎧 Music fuels my coding sessions (mostly Lofi + Synthwave).
-
-🖊️ Currently working on **building clean UIs for internal tools**.
 
 ---
 
