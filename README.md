@@ -8,8 +8,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sangarananthan-Dev&theme=highcontrast&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Sangarananthan-Dev&show_icons=true&theme=highcontrast&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sangarananthan-Dev&theme=highcontrast&hide_border=true&card_width=350" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sangarananthan-Dev&show_icons=true&theme=highcontrast&hide_border=true&card_width=350" />
 </p>
 
 🛠 Tech stack:
